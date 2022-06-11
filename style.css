@@ -76,7 +76,7 @@ button:hover{
 
 #left {
     /* flex-shrink: 0; */
-    width: 300px;
+    width: 450px;
     line-height: 1.6em;
 }
 
@@ -150,7 +150,8 @@ button {
 }
 
 #qoute div {
-    padding: 0;
+    display: flex;
+    justify-content: end;
 }
 
 #qoutation {
@@ -190,4 +191,3 @@ button {
     color: #E5E7EB;
     text-align: center;
 }
-
